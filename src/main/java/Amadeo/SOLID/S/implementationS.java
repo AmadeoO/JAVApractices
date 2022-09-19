@@ -1,4 +1,4 @@
-package SOLID.S;
+package Amadeo.SOLID.S;
 
 public class implementationS {
 }

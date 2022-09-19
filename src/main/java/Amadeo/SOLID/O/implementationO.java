@@ -1,4 +1,4 @@
-package SOLID.O;
+package Amadeo.SOLID.O;
 
 public class implementationO {
 }
